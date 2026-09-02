@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011016321868",
+    "project_id": "parfumku-199b4",
+    "storage_bucket": "parfumku-199b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011016321868:android:0ab90b74592252add35de9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1C7EPYURnBEidYKf3Wr85qAOX3Nj-UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
